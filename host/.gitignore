@@ -2,3 +2,4 @@
 docker/
 docker_run.sh
 generated/
+.ipynb_checkpoints/
