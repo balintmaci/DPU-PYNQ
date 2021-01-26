@@ -1,5 +1,5 @@
 # generated and copied files
 docker/
 docker_run.sh
-generated/
 .ipynb_checkpoints/
+build/
